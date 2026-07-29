@@ -1,0 +1,8 @@
+,gdp,total_plants,renewable_plants,renewable_plants_prop,renewable_est_generation_gwh,total_est_generation_gwh,avg_est_generation_gwh
+gdp,1.0,0.932,0.862,0.064,0.763,0.969,-0.01
+total_plants,0.932,1.0,0.975,0.119,0.802,0.896,-0.086
+renewable_plants,0.862,0.975,1.0,0.179,0.79,0.823,-0.11
+renewable_plants_prop,0.064,0.119,0.179,1.0,0.111,0.038,-0.187
+renewable_est_generation_gwh,0.763,0.802,0.79,0.111,1.0,0.809,0.027
+total_est_generation_gwh,0.969,0.896,0.823,0.038,0.809,1.0,0.061
+avg_est_generation_gwh,-0.01,-0.086,-0.11,-0.187,0.027,0.061,1.0
